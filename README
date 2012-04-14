@@ -1,0 +1,11 @@
+mirrord
+
+A configurable repository mirroring daemon.
+
+1. Configure the frequency and relative time of day to sync with a repository.
+
+2. Choose which type of repository to mirror (ubuntu, debian, arch). For
+example, this will be able to handle multiple underlying protocols for syncing.
+
+3. Other things to be added later :)
+
